@@ -1,6 +1,6 @@
 # SvelteStarter
 
-This is a starter project including Tailwind, Flowbite and static adapter.
+This is a starter project including Tailwind, SkeletonUI and static adapter.
 
 ## Developing
 
